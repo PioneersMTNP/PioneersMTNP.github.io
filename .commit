@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # NEVER miss version number update again
-$EDITOR package.json
+#$EDITOR package.json
 
 # Add changes to git.
 git add -A
